@@ -1,4 +1,4 @@
-et canvas = document.getElementById('can')
+let canvas = document.getElementById('can')
 let ctx = canvas.getContext('2d')
 canvas.width = 600
 canvas.height = 400
